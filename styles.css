@@ -3,10 +3,10 @@
   padding: 0;
   box-sizing: border-box;
   background-color: #4412ed;
-  background-image: url("https://deltazetaphi.w3spaces.com/media/background.png");
+  background-image: url("/media/background.png");
 }
 body {
-  background-image: url("https://deltazetaphi.w3spaces.com/media/background.png");
+  background-image: url("/media/background.png");
 }
 nav {
   display: flex;
